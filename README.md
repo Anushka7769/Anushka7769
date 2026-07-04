@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm W.L.K. Anushka</h1>
+<h1 align="center">Hi 👋, I'm Anushka W.L.K.</h1>
 <h3 align="center">A passionate Computer Engineering undergraduate and full-stack developer from Sri Lanka</h3>
 
 - 🔭 I’m currently working on [TourismHub LK](https://github.com/cepdnaclk/e23-co2060-Hotel-Management-System)
